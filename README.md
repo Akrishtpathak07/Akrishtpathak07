@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Akrishtpathak07
-- 👀 I’m interested in Data Structure and Algorithms
+- 👀 I’m interested in Machine Learning, Deep Learning, Neural Networks, etc.
 - 🌱 I’m currently pursuing BTEC from AKTU. 
